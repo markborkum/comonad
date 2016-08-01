@@ -100,6 +100,7 @@ library
     Control.Comonad.Trans.Class
     Control.Comonad.Trans.Env
     Control.Comonad.Trans.Identity
+    Control.Comonad.Trans.Rall
     Control.Comonad.Trans.Store
     Control.Comonad.Trans.Traced
     Data.Functor.Composition
